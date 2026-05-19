@@ -1,0 +1,25 @@
+objet,categorie,mots_cles,action_prioritaire,explication,reutilisation,score_ecologique
+Téléphone brisé,électronique,"téléphone smartphone écran batterie chargeur",Réparer ou déposer en écocentre,"Les appareils électroniques contiennent des métaux rares et des composants polluants.",Transformer en caméra de sécurité ou lecteur audio,92
+Ordinateur portable lent,électronique,"ordinateur laptop pc lent batterie clavier",Réparer ou reconditionner,"Un ordinateur peut souvent être prolongé avec une mise à jour logicielle ou un changement de pièce.",Installer Linux léger ou donner à un organisme,90
+Pile usagée,dangereux,"pile batterie aa aaa lithium",Point de dépôt spécialisé,"Les piles ne doivent pas aller aux déchets ordinaires.",Aucune réutilisation recommandée,95
+Pot de yogourt,plastique,"pot yogourt plastique contenant alimentaire",Recycler si accepté localement,"Certains plastiques sont recyclables selon le numéro et la municipalité.",Utiliser pour semis ou rangement de vis,65
+Sac plastique,plastique,"sac plastique épicerie emballage",Réutiliser puis recycler si accepté,"Le meilleur geste est de réduire l’usage des sacs jetables.",Sac de poubelle miniature ou protection d’objet,58
+Bouteille de verre,verre,"bouteille verre pot bocal",Recycler ou réutiliser,"Le verre se recycle bien, mais la réutilisation évite du transport et de l’énergie.",Vase, contenant sec ou décoration,78
+Bocal en verre,verre,"bocal pot mason confiture verre",Réutiliser,"Le bocal est très durable et utile en cuisine.",Conservation d’aliments, vrac ou rangement,88
+Boîte de conserve,métal,"boîte conserve aluminium métal canette",Recycler,"Le métal se recycle efficacement.",Pot à crayons ou mini-jardinière,80
+Canette aluminium,métal,"canette aluminium boisson",Recycler,"L’aluminium recyclé économise beaucoup d’énergie.",Objet décoratif ou petit contenant,85
+Vieux manteau,textile,"manteau vêtement textile tissu hiver",Donner ou réparer,"Les textiles ont un fort impact environnemental; il vaut mieux prolonger leur vie.",Patchwork, doublure ou don communautaire,86
+T-shirt troué,textile,"t-shirt chandail trou coton vêtement",Réparer ou transformer,"Un textile abîmé peut devenir chiffon ou matière créative.",Chiffon, sac réutilisable ou couture,82
+Chaussures usées,textile,"chaussures souliers baskets cuir",Réparer ou donner si portables,"Les chaussures peuvent parfois être réparées par un cordonnier.",Jardinage ou don si encore utilisables,72
+Marc de café,organique,"marc café filtre compost",Composter,"La matière organique produit du méthane en enfouissement.",Engrais doux, désodorisant ou exfoliant maison,91
+Épluchures de légumes,organique,"épluchures légumes fruits restes cuisine",Composter,"Les résidus alimentaires sont précieux pour le compost.",Bouillon maison si propres,93
+Restes de repas,organique,"restes nourriture repas cuisine",Manger, donner ou composter,"Le gaspillage alimentaire doit être réduit avant le compostage.",Recette anti-gaspillage,89
+Journal papier,papier,"journal papier revue magazine",Recycler,"Le papier propre est généralement recyclable.",Emballage cadeau ou papier de protection,75
+Carton de livraison,papier,"carton boîte livraison emballage",Réutiliser ou recycler,"Le carton peut servir plusieurs fois avant recyclage.",Rangement, déménagement ou bricolage,83
+Livre ancien,papier,"livre roman manuel papier",Donner,"Un livre a une valeur culturelle et peut circuler longtemps.",Boîte à livres, bibliothèque ou organisme,87
+Meuble abîmé,encombrant,"meuble chaise table bois armoire",Réparer ou donner,"Les encombrants peuvent souvent être restaurés.",Upcycling, peinture, transformation,84
+Matelas usé,encombrant,"matelas lit mousse ressort",Écocentre ou collecte spécialisée,"Les matelas demandent une filière particulière.",Aucune réutilisation domestique recommandée,70
+Ampoule DEL,dangereux,"ampoule led del lumière lampe",Point de dépôt si requis,"Certaines ampoules doivent être traitées par filières spécialisées.",Aucune réutilisation recommandée,76
+Médicament expiré,dangereux,"médicament pilule sirop pharmacie",Retour en pharmacie,"Les médicaments ne doivent pas être jetés aux toilettes ni aux déchets.",Aucune réutilisation,98
+Jouet en bon état,réutilisable,"jouet enfant jeu peluche",Donner,"Un objet encore fonctionnel devrait être transmis.",Don à une famille, école ou organisme,88
+Vaisselle ébréchée,réutilisable,"assiette tasse vaisselle céramique",Réutiliser créativement ou écocentre,"La céramique ne va pas toujours au recyclage régulier.",Mosaïque, pot de plante ou décoration,67
